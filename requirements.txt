@@ -1,0 +1,8 @@
+
+fastapi
+uvicorn[standard]
+pydantic
+requests
+PyPDF2
+openai==0.28.1
+python-multipart
