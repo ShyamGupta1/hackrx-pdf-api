@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+hackrx_env/
+*.log
+.DS_Store
+node_modules/
