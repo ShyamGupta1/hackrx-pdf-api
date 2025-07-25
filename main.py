@@ -28,7 +28,7 @@ security = HTTPBearer()
 EXPECTED_TOKEN = "52f647633dca7c9f44b5810213fcecccdfc1cd7b036219642a36a69c0a3b7ff6"
 
 # OpenAI Configuration
-OPENAI_API_KEY = "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"  # Replace with your actual OpenAI key
+OPENAI_API_KEY = os.environ.get("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", "")
 OPENAI_API_URL = "https://api.openai.com/v1/chat/completions"
 
 # Models
